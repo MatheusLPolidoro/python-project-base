@@ -1,6 +1,6 @@
 site_name: Python Project Base
 repo_url: https://github.com/MatheusLPolidoro/python-project-base
-repo_name: MatheusLPolidoro/python-project-base
+repo_name: /python-project-base
 edit_uri: tree/master/docs
 
 theme:
