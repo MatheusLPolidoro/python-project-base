@@ -1,0 +1,16 @@
+site_name: Python Project Base
+repo_url: https://github.com/MatheusLPolidoro/python-project-base
+repo_name: MatheusLPolidoro/python-project-base
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/pyfront.svg
+  favicon: assets/pyfront.svg
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
